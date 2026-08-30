@@ -1,5 +1,11 @@
 # Checkpoint 1 — DSA | Inflação e Taxa Selic no Brasil
 
+## Integrantes
+
+- Gabriel De Biasi Couto | RM: 563247
+- João Pedro da Silva Costa | RM: 565031
+- Rodrigo Campos Cordeiro | RM: 566386
+
 ## Definição do problema, obtenção dos dados e construção dos indicadores
 
 **Tema:** Economia  
