@@ -53,6 +53,8 @@ Dessa forma, a Parte 1 oferece a visão descritiva e o Checkpoint 2 acrescenta a
 
 ## Como executar
 
+A coleta e o tratamento dos dados estão dentro dos próprios notebooks, sem depender de um arquivo Python separado.
+
 ```bash
 pip install -r requirements.txt
 jupyter notebook notebooks/modelagem_preditiva.ipynb
@@ -63,11 +65,9 @@ O notebook da Parte 1 continua disponível em `notebooks/analise_economica.ipynb
 ## Estrutura
 
 ```text
-cp4-dsa/
+cp4-5-dsa/
 ├── README.md
 ├── requirements.txt
-├── src/
-│   └── coleta_dados.py
 ├── notebooks/
 │   ├── analise_economica.ipynb
 │   └── modelagem_preditiva.ipynb
